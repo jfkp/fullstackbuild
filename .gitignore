@@ -1,0 +1,4 @@
+.env
+fullstack
+__pycache__
+001-fastapi-backend/.env
